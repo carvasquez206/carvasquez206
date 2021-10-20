@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @carvasquez206
-- 👀 I’m interested in furthering my education in software and tech in general. I'm also a freelance artist with a focus on portraits.
-- 🌱 I’m currently learning JavaScript.
-- 💞️ I’m looking to collaborate on any project that will further my knowledge on JavaScript backend and frontend.
+- 👀 I’m interested in furthering my career and education in Tech. I'm also a freelance artist.
+- 🌱 I’m currently learning JavaScript, NodeJS, ExpressJs, and SQL. 
+- 💞️ I’m looking to collaborate on any project that will further my knowledge on the webstack.
 
 <!---
 carvasquez206/carvasquez206 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
