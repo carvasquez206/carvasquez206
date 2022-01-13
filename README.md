@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @carvasquez206
+- 👋 Hello! I’m @carvasquez206
 - 👀 I’m interested in furthering my career and education in tech industry.
 - 🌱 Front-end: HTML & CSS, JavaScript, Handlebars, React.js
 - 🔥 Back-end: Heroku, Git, MySQL, Sequelize, MongoDB, Node.js, Express, PWA
