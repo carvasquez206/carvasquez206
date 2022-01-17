@@ -8,7 +8,9 @@
 
 ### Connect with me:
 
-[<img align="left" alt="Carlos | LinkedIn" width="22px" src=linkedin.com/in/carlosvasquez1" />][linkedin]
+[![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://linkedin.com/in/carlosvasquez1)
+&nbsp;
+[![GitHub](https://i.stack.imgur.com/tskMh.png) GitHub](https://github.com/)
 
 <br /> 
 
@@ -33,10 +35,6 @@
 
 <br />
 <br />
-  
-  [![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/)
-&nbsp;
-[![GitHub](https://i.stack.imgur.com/tskMh.png) GitHub](https://github.com/)
   
 <!---
 carvasquez206/carvasquez206 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
