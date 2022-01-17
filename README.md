@@ -1,12 +1,13 @@
 # Hello! My name is Carlos Vasquez, @carvasquez206
-- 👀 I’m interested in furthering my career and education in tech industry.
-- 🌱 Front-end: HTML & CSS, JavaScript, Handlebars, React.js
-- 🔥 Back-end: Heroku, Git, MySQL, Sequelize, MongoDB, Node.js, Express, PWA
-- 💞️ I’m looking to collaborate on any project that will further my knowledge on the Webstack
+- 🔭 I’m interested in furthering my career and education in tech industry
+- 🌱 JavaScript will be my main focus in the next 6 months
+- 👯 I’m looking to collaborate on any project that will further my knowledge on the Webstack
+- 🔥 2022 Goals: To increse my week coding consumption and productivity
+- ⚡ Fun fact: I'm a portrait artist focusing moslty on black and white ink
 
 <br />
 
-### Connect with me:
+## Connect with me:
 
 [<img align="left" alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://linkedin.com/in/carlosvasquez1)
 
