@@ -1,4 +1,4 @@
-### He my name is Carlos Vasquez, @carvasquez206
+# He my name is Carlos Vasquez, @carvasquez206
 - 👀 I’m interested in furthering my career and education in tech industry.
 - 🌱 Front-end: HTML & CSS, JavaScript, Handlebars, React.js
 - 🔥 Back-end: Heroku, Git, MySQL, Sequelize, MongoDB, Node.js, Express, PWA
@@ -10,7 +10,6 @@
 
 [<img align="left" alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://linkedin.com/in/carlosvasquez1)
 
-<br /> 
 <br />
 
 ### Languages and Tools:
