@@ -5,8 +5,6 @@
 - 🔥 2022 Goals: To increse my week coding consumption and productivity
 - ⚡ Fun fact: I'm a portrait artist focusing moslty on black and white ink
 
-<br />
-
 ## Connect with me:
 
 [<img align="left" alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://linkedin.com/in/carlosvasquez1)
