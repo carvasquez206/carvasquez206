@@ -8,12 +8,10 @@
 
 ### Connect with me:
 
-[![Linkedin](https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg)](https://linkedin.com/in/carlosvasquez1)
-&nbsp;
-
 [<img align="left" alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://linkedin.com/in/carlosvasquez1)
 
 <br /> 
+<br />
 
 ### Languages and Tools:
 
