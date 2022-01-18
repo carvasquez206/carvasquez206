@@ -3,7 +3,7 @@
 - 🤖 JavaScript will be my main focus in the next 6 months
 - 🤝 I’m looking to collaborate on any project that will further my knowledge on the Webstack
 - 🔥 2022 Goals: To increse my week coding consumption and productivity
-- ⚡ Fun fact: I'm a portrait artist focusing moslty on black and white ink
+- ⚡ Fun fact: I'm a portrait artist focusing moslty on black and white drawings with an ink medium
 
 ## Connect with me:
 
